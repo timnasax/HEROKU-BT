@@ -3,7 +3,7 @@
   "description":"Deploy and enjoy.Dont forget to fork and give star. By Rahmany😇 ",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://files.catbox.moe/zotx9t.jpg",
-  "repository":"https://github.com/rahzyn/HEROKU-BT",
+  "repository":"https://github.com/timnasax/HEROKU-BT",
   "succes_url":"/",
   "stack":"container",
   "env":{
